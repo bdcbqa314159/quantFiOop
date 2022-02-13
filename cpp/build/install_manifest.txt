@@ -1,0 +1,6 @@
+/usr/local/lib/libquantFiOop.dylib
+/usr/local/include/quantFiOop
+/usr/local/include/quantFiOop_bits/.DS_Store
+/usr/local/include/quantFiOop_bits/chapter1.hpp
+/usr/local/include/quantFiOop_bits/matrix.hpp
+/usr/local/include/quantFiOop_bits/test.hpp

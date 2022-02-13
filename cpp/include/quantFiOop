@@ -1,0 +1,8 @@
+#ifndef QUANTFIOOP_H
+#define QUANTFIOOP_H
+
+#include "quantFiOop_bits/test.hpp"
+#include "quantFiOop_bits/chapter1.hpp"
+#include <boost/function.hpp>
+
+#endif

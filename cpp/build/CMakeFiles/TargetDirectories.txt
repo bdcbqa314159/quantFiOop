@@ -1,0 +1,7 @@
+/Users/bernardocohen/repos/quantFiOop/cpp/build/CMakeFiles/quantFiOop.dir
+/Users/bernardocohen/repos/quantFiOop/cpp/build/CMakeFiles/edit_cache.dir
+/Users/bernardocohen/repos/quantFiOop/cpp/build/CMakeFiles/rebuild_cache.dir
+/Users/bernardocohen/repos/quantFiOop/cpp/build/CMakeFiles/list_install_components.dir
+/Users/bernardocohen/repos/quantFiOop/cpp/build/CMakeFiles/install.dir
+/Users/bernardocohen/repos/quantFiOop/cpp/build/CMakeFiles/install/local.dir
+/Users/bernardocohen/repos/quantFiOop/cpp/build/CMakeFiles/install/strip.dir
